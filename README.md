@@ -4,14 +4,15 @@ Certificates, course completions and a patent record. Click an image to open it 
 
 **Courses and certificates**
 
-- Advanced Topics in Model Context Protocol (Anthropic, 2026)
+- Advanced MCP Topics (Anthropic, 2026)
 - Nutanix Certified Associate 6 (Nutanix, 2026)
-- Divide and Conquer, Sorting and Searching, and Randomized Algorithms (Stanford Online, 2026)
-- Graph Search, Shortest Paths, and Data Structures (Stanford Online, 2026)
-- Retrieval Augmented Generation for Production (Activeloop, 2025)
-- Career Essentials in Generative AI (Microsoft and LinkedIn, 2025)
-- TensorFlow for Deep Learning; Computer Vision with OpenCV (Udemy, 2025)
-- Career Essentials in Data Analysis (Microsoft and LinkedIn, 2024)
+- Divide & Conquer Algorithms (Stanford Online, 2026)
+- Graph Search & Data Structures (Stanford Online, 2026)
+- RAG Production Certification (Activeloop, 2025)
+- Career Essentials in GenAI (Microsoft & LinkedIn, 2025)
+- TensorFlow for Deep Learning (Udemy, 2025)
+- Computer Vision & OpenCV (Udemy, 2025)
+- Data Analysis Essentials (Microsoft & LinkedIn, 2024)
 
 **Publications and patents**
 
